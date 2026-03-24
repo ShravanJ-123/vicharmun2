@@ -931,10 +931,10 @@ export default function App() {
           >
             <div className="absolute -inset-4 border border-[#d4af37]/20 rounded-[40px] md:rounded-[60px] rotate-3" />
             <div className="absolute -inset-4 border border-white/10 rounded-[40px] md:rounded-[60px] -rotate-3" />
-            <div className="relative aspect-[4/5] rounded-[40px] md:rounded-[60px] overflow-hidden group">
-              <div className="absolute inset-0 bg-[#d4af37]/10 mix-blend-overlay z-10" />
-              <img 
-                src="/Untitled design(2).png" 
+              <div className="relative aspect-[4/5] rounded-[40px] md:rounded-[60px] overflow-hidden group">
+                <div className="absolute inset-0 bg-[#d4af37]/10 mix-blend-overlay z-10" />
+                <img 
+                src="/essence.png" 
                 alt="Conference" 
                 className="w-full h-full object-cover object-bottom grayscale group-hover:grayscale-0 transition-all duration-1000 scale-110 group-hover:scale-100"
               />
@@ -1229,7 +1229,7 @@ export default function App() {
             <div className="relative aspect-[4/5] rounded-[40px] md:rounded-[60px] overflow-hidden shadow-[0_0_100px_rgba(0,0,0,0.5)] animate-float">
               <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent z-10 opacity-60" />
               <img 
-                src="/Untitled design(3).png" 
+                src="/venue.png" 
                 alt="Venue"
                 className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000 scale-110 group-hover:scale-100"
                 referrerPolicy="no-referrer"
